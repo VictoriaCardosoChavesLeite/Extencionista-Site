@@ -80,6 +80,7 @@ button:hover{
 .img-section1{
   height: 350px;
   padding-left: 100px;
+  animation: scale-up-center 1s both;
 }
 
 .section2{
@@ -94,6 +95,7 @@ button:hover{
 .img-section2{
   height: 350px;
   padding-right: 100px;
+  animation: scale-up-center 1s both;
 }
 
 .section3{
@@ -108,6 +110,7 @@ button:hover{
 .img-section3{
   height: 350px;
   padding-left: 100px;
+  animation: scale-up-center 1s both;
 }
 
 .section4{
@@ -122,6 +125,7 @@ button:hover{
 .img-section4{
   height: 350px;
   padding-right: 100px;
+  animation: scale-up-center 1s both;
 }
 
 .section5{
@@ -136,6 +140,22 @@ button:hover{
 .img-section5{
   height: 350px;
   padding-left: 100px;
+  animation: scale-up-center 1s both;
+}
+
+.section6{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  gap: 32px;
+  padding: 20px;
+}
+
+.img-section6{
+  height: 350px;
+  padding-left: 100px;
+  animation: scale-up-center 1s both;
 }
 
 .text-button{
@@ -148,23 +168,7 @@ button:hover{
 .text{
   font-size: 30px;
   padding-bottom: 20px;
+  animation: tracking-in-expand 3s both;
 }
 
-.button{
-  font-size: 15px;
-  text-align: center;
-  line-height: 1.2;
-  text-transform: uppercase;
-  padding: 0 20px;
-  height: 50px;
-  background-color: var(--main-color);
-  border-radius: 10px;
-  transition: all 0.4s;
-  background-color: #7696EB;
-  color: #FFFFFF;
-}
-
-.button:hover{
-  background-color: #333333;
-}
   
