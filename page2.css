@@ -381,10 +381,16 @@ button:hover{
 
 @media only screen and (max-width: 500px) {
   .cabecalho{
-      padding: 4px;
+    padding: 4px;
+  }
+  .option{
+    font-size: 10px;
+  }
+  .option-activate{
+    font-size: 10px;
   }
   .text{
-    font-size: 10px;
+    font-size: 5px;
   }
   .conteudo{
     width: 100%;
