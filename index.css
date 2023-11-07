@@ -340,7 +340,7 @@ button:hover{
       padding: 4px;
   }
   .text{
-    font-size: 15px;
+    font-size: 10px;
   }
   .conteudo{
     width: 100%;
@@ -356,7 +356,7 @@ button:hover{
   }
 
   .img-section1{
-    height: 125px;
+    height: 100px;
     padding: 5px;
     animation: scale-up-center 1s both;
   }
@@ -371,7 +371,7 @@ button:hover{
   }
 
   .img-section2{
-    height: 125px;
+    height: 100px;
     padding: 5px;
     animation: scale-up-center 1s both;
   }
@@ -386,7 +386,7 @@ button:hover{
   }
 
   .img-section3{
-    height: 125px;
+    height: 100px;
     padding: 5px;
     animation: scale-up-center 1s both;
   }
@@ -401,7 +401,7 @@ button:hover{
   }
 
   .img-section4{
-    height: 125px;
+    height: 100px;
     padding: 5px;
     animation: scale-up-center 1s both;
   }
@@ -416,7 +416,7 @@ button:hover{
   }
 
   .img-section5{
-    height: 125px;
+    height: 100px;
     padding: 5px;
     animation: scale-up-center 1s both;
   }
