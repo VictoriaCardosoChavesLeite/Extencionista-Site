@@ -378,7 +378,7 @@ button:hover{
 
   .img-section2{
     height: 50px;
-    padding: 5px;
+    padding: 10px;
     animation: scale-up-center 1s both;
   }
 
@@ -393,7 +393,7 @@ button:hover{
 
   .img-section3{
     height: 50px;
-    padding: 5px;
+    padding: 10px;
     animation: scale-up-center 1s both;
   }
 
@@ -408,7 +408,7 @@ button:hover{
 
   .img-section4{
     height: 50px;
-    padding: 5px;
+    padding: 10px;
     animation: scale-up-center 1s both;
   }
 
@@ -423,7 +423,7 @@ button:hover{
 
   .img-section5{
     height: 55px;
-    padding: 5px;
+    padding: 10px;
     animation: scale-up-center 1s both;
   }
 }
