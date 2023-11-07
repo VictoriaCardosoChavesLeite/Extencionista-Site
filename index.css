@@ -346,7 +346,7 @@ button:hover{
     font-size: 15px;
   }
   .text{
-    font-size: 10px;
+    font-size: 15px;
   }
   .conteudo{
     width: 100%;
@@ -362,7 +362,7 @@ button:hover{
   }
 
   .img-section1{
-    height: 50px;
+    height: 55px;
     padding: 5px;
     animation: scale-up-center 1s both;
   }
