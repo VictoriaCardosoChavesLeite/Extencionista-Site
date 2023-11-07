@@ -378,3 +378,90 @@ button:hover{
     animation: scale-up-center 1s both;
   }
 }
+
+@media only screen and (max-width: 500px) {
+  .cabecalho{
+      padding: 4px;
+  }
+  .text{
+    font-size: 10px;
+  }
+  .conteudo{
+    width: 100%;
+  }
+
+  .section1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 12px;
+    padding: 5px;
+  }
+
+  .img-section1{
+    height: 125px;
+    padding: 5px;
+    animation: scale-up-center 1s both;
+  }
+
+  .section2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 12px;
+    padding: 5px;
+  }
+
+  .img-section2{
+    height: 125px;
+    padding: 5px;
+    animation: scale-up-center 1s both;
+  }
+
+  .section3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 12px;
+    padding: 5px;
+  }
+
+  .img-section3{
+    height: 125px;
+    padding: 5px;
+    animation: scale-up-center 1s both;
+  }
+
+  .section4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 12px;
+    padding: 5px;
+  }
+
+  .img-section4{
+    height: 125px;
+    padding: 5px;
+    animation: scale-up-center 1s both;
+  }
+
+  .section5{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 12px;
+    padding: 5px;
+  }
+
+  .img-section5{
+    height: 125px;
+    padding: 5px;
+    animation: scale-up-center 1s both;
+  }
+}
