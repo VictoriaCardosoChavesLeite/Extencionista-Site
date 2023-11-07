@@ -407,7 +407,8 @@ button:hover{
 
   .img-section1{
     height: 50px;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
     animation: scale-up-center 1s both;
   }
 
@@ -422,7 +423,8 @@ button:hover{
 
   .img-section2{
     height: 50px;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
     animation: scale-up-center 1s both;
   }
 
@@ -437,7 +439,8 @@ button:hover{
 
   .img-section3{
     height: 50px;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
     animation: scale-up-center 1s both;
   }
 
@@ -452,7 +455,8 @@ button:hover{
 
   .img-section4{
     height: 50px;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;;
     animation: scale-up-center 1s both;
   }
 
@@ -467,7 +471,8 @@ button:hover{
 
   .img-section5{
     height: 50px;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
     animation: scale-up-center 1s both;
   }
   .section6{
@@ -481,7 +486,8 @@ button:hover{
 
   .img-section6{
     height: 50px;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
     animation: scale-up-center 1s both;
   }
 }
